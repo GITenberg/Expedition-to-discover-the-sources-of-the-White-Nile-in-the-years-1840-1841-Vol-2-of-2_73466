@@ -1,0 +1,38 @@
+_repo: Expedition-to-discover-the-sources-of-the-White-Nile-in-the-years-1840-1841-Vol-2-of-2_73466
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: O'Reilly, Charles William
+    gutenberg_agent_id: '57084'
+    url: http://www.gutenberg.org/2009/agents/57084
+creator:
+  author:
+    agent_name: Werne, Ferdinand
+    birthdate: 1800
+    deathdate: 1874
+    gutenberg_agent_id: '57083'
+    url: http://www.gutenberg.org/2009/agents/57083
+    wikipedia: https://de.wikipedia.org/wiki/Ferdinand_Werne
+description: ''
+gutenberg_issued: '2024-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73466'
+language: en
+pgterms:marc904: https://archive.org/details/expeditiontodisc00wern
+pgterms:marc905: 20240414230653werne
+pgterms:marc906: '1849'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive/University of Pretoria)
+publication_note: '  $aLondon :$bRichard Bentley, $c1849.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nile River'
+- !lcc 'DT'
+- GITenberg
+title: Expedition to discover the sources of the White Nile, in the years 1840, 1841,
+  Vol. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/73466
