@@ -5,6 +5,9 @@ contributor:
     agent_name: O'Reilly, Charles William
     gutenberg_agent_id: '57084'
     url: http://www.gutenberg.org/2009/agents/57084
+covers:
+- cover_type: archival
+  image_path: 73466-h/images/cover.jpg
 creator:
   author:
     agent_name: Werne, Ferdinand
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57083
     wikipedia: https://de.wikipedia.org/wiki/Ferdinand_Werne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73466#Expedition-to-discover-the-sources-of-the-White-Nile-in-the-years-1840-1841-Vol-2-of-2
 gutenberg_issued: '2024-04-25'
 gutenberg_type: Text
 identifiers:
